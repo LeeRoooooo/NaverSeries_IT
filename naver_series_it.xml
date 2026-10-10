@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:27:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:02:15 +0900</lastBuildDate>
+    <item>
+      <title>[조선비즈] 영화·애니메이션 부업 키우는 게임사… 스크린으로 IP 세계관 확장 (2026.10.11.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001197132?type=series&amp;cid=1087841</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.10.11.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001197132?type=series&amp;cid=1087841</guid>
+      <pubDate>Sun, 11 Oct 2026 06:02:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] “잘 나가는데 왜 옮겨?”…모모스커피·유라고가 자사몰 갈아탄 까닭 (2026.10.11.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244253?type=series&amp;cid=1089780</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.11.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244253?type=series&amp;cid=1089780</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:10 +0900</pubDate>
+    </item>
     <item>
       <title>[조선비즈] AI로 만든 영상, 니콘 현미경 영상전서 1등 취소 (2026.10.10.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/366/0001197112?type=series&amp;cid=1089255</link>
@@ -117,20 +131,6 @@
       <description>언론사: 뉴스1 / 등록일: 2026.10.10.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009219555?type=series&amp;cid=2003722</guid>
       <pubDate>Sat, 10 Oct 2026 07:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까 (2026.10.10.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016368019?type=series&amp;cid=2003045</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.10.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016368019?type=series&amp;cid=2003045</guid>
-      <pubDate>Sat, 10 Oct 2026 06:33:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] (217)모티프 임정환 대표 &quot;독파모 회사 성장 기회, 국내 최고 LLM 도전&quot; (2026.10.10.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005826604?type=series&amp;cid=2000451</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.10.10.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005826604?type=series&amp;cid=2000451</guid>
-      <pubDate>Sat, 10 Oct 2026 06:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
