@@ -28,7 +28,7 @@ jobs:
 
       - name: Run scraping script
         run: |
-          python generate_rss.py
+          python main.py
 
       - name: Commit and push if changed
         run: |
