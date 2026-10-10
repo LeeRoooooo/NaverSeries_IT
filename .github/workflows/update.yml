@@ -1,4 +1,4 @@
-name: Update YNA Graphic RSS Feed
+name: Update Naver Series[IT] RSS Feed
 
 on:
   # 2시간 간격 실행 (UTC 기준 매 짝수 시 0분)
