@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:00:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:02:13 +0900</lastBuildDate>
+    <item>
+      <title>[이데일리] 애플 ‘홈뷰’ 13일 공개…스마트홈 허브 공략 (2026.10.12.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006386155?type=series&amp;cid=2002833</link>
+      <description>언론사: 이데일리 / 등록일: 2026.10.12.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006386155?type=series&amp;cid=2002833</guid>
+      <pubDate>Mon, 12 Oct 2026 07:02:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] [주간 클라우드 동향/10월 ②] &quot;韓 기업과 새 기회 만들 것&quot;… AMD, 국산 AI 반도체 띄운다 (2026.10.12.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244279?type=series&amp;cid=1087324</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.12.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244279?type=series&amp;cid=1087324</guid>
+      <pubDate>Mon, 12 Oct 2026 06:44:10 +0900</pubDate>
+    </item>
     <item>
       <title>[비즈워치] 진짜 등장한 '레이저 무기'…K-방산 또다른 주인공 될까 (2026.10.11.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/648/0000051473?type=series&amp;cid=2000034</link>
@@ -117,20 +131,6 @@
       <description>언론사: 동아사이언스 / 등록일: 2026.10.11.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000039636?type=series&amp;cid=1077377</guid>
       <pubDate>Sun, 11 Oct 2026 08:01:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] 분기 영업익 107조 새 역사 쓴 삼성… 최태원 SK회장은 '팹 병행 건설' 속도전 [위클리반도체] (2026.10.11.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244255?type=series&amp;cid=2000113</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.11.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244255?type=series&amp;cid=2000113</guid>
-      <pubDate>Sun, 11 Oct 2026 06:56:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] &quot;14일 일정 겹칩니다&quot;…오픈AI '닷츠'가 먼저 챙겼다 (2026.10.11.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016368682?type=series&amp;cid=2003536</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.11.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016368682?type=series&amp;cid=2003536</guid>
-      <pubDate>Sun, 11 Oct 2026 06:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
