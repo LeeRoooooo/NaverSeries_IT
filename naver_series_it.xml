@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:02:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:59:08 +0900</lastBuildDate>
+    <item>
+      <title>[디지털데일리] ESS 날개 단 K-배터리, 3분기 실적 반등…유럽 EV 회복도 관심사 (2026.10.14.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244616?type=series&amp;cid=1089789</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.14.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244616?type=series&amp;cid=1089789</guid>
+      <pubDate>Wed, 14 Oct 2026 06:59:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[조선비즈] “개인정보 보호책임자가 로그 삭제 지시”… 개인정보위가 KT 고발 의결한 까닭은 (2026.10.14.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001197759?type=series&amp;cid=1087841</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.10.14.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001197759?type=series&amp;cid=1087841</guid>
+      <pubDate>Wed, 14 Oct 2026 06:01:21 +0900</pubDate>
+    </item>
     <item>
       <title>[이데일리] 말 한마디로 집안 관리…애플, AI 홈 허브 '홈뷰' 공개 (2026.10.14.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/018/0006387437?type=series&amp;cid=2002833</link>
@@ -47,13 +61,6 @@
       <description>언론사: 더스쿠프 / 등록일: 2026.10.13.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/665/0000008351?type=series&amp;cid=2000376</guid>
       <pubDate>Tue, 13 Oct 2026 15:29:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] 엔비디아 AI 동맹 탄 LG엔솔… 북미 90GWh 수주 랠리로 캐즘 뚫는다 (2026.10.13.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244560?type=series&amp;cid=1089789</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.13.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244560?type=series&amp;cid=1089789</guid>
-      <pubDate>Tue, 13 Oct 2026 15:10:12 +0900</pubDate>
     </item>
     <item>
       <title>[연합뉴스] 배경훈 &quot;피지컬 AI 글로벌 1강 도약…이젠 성과 보여줄 때&quot; (2026.10.13.)</title>
@@ -124,13 +131,6 @@
       <description>언론사: 연합뉴스 / 등록일: 2026.10.13.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016372938?type=series&amp;cid=2003091</guid>
       <pubDate>Tue, 13 Oct 2026 10:49:50 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] 정부 정보시스템 2030년까지 클라우드 전환…12월 로드맵 나온다 (2026.10.13.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002440676?type=series&amp;cid=2003612</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.10.13.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002440676?type=series&amp;cid=2003612</guid>
-      <pubDate>Tue, 13 Oct 2026 09:57:08 +0900</pubDate>
     </item>
   </channel>
 </rss>
