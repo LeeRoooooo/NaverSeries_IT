@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:01:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:15:10 +0900</lastBuildDate>
+    <item>
+      <title>[농민신문] “갱년기를 부탁해”…줌바·요가하는 4050 여성이 활기 찬 이유 (2026.10.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/662/0000106126?type=series&amp;cid=2003615</link>
+      <description>언론사: 농민신문 / 등록일: 2026.10.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/662/0000106126?type=series&amp;cid=2003615</guid>
+      <pubDate>Thu, 15 Oct 2026 06:15:10 +0900</pubDate>
+    </item>
+    <item>
+      <title>[조선비즈] ‘AI 지각생’ 애플은 왜 스피커 시장에 다시 뛰어들었나 (2026.10.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001198019?type=series&amp;cid=1087841</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.10.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001198019?type=series&amp;cid=1087841</guid>
+      <pubDate>Thu, 15 Oct 2026 06:01:10 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울신문] 서로 다른 언어 쓰는 지구촌, 사람마다 다른 입천장서 시작됐다 [유용하 과학전문기자의 사이언스 톡] (2026.10.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003689064?type=series&amp;cid=1057665</link>
+      <description>언론사: 서울신문 / 등록일: 2026.10.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003689064?type=series&amp;cid=1057665</guid>
+      <pubDate>Thu, 15 Oct 2026 05:04:07 +0900</pubDate>
+    </item>
     <item>
       <title>[아이뉴스24] 잘게 잘게 부서진 플라스틱, 인류에 생물학적 역습 (2026.10.15.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/031/0001066119?type=series&amp;cid=1087779</link>
@@ -110,27 +131,6 @@
       <description>언론사: ZDNet Korea / 등록일: 2026.10.14.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002440887?type=series&amp;cid=1087435</guid>
       <pubDate>Wed, 14 Oct 2026 13:03:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[동아사이언스] 'AI강국' 화려한 구호보다 '자강의 도덕 선진국' 만들어야 (2026.10.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000039677?type=series&amp;cid=1087144</link>
-      <description>언론사: 동아사이언스 / 등록일: 2026.10.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000039677?type=series&amp;cid=1087144</guid>
-      <pubDate>Wed, 14 Oct 2026 12:01:06 +0900</pubDate>
-    </item>
-    <item>
-      <title>[전자신문] 올해 중고차 시장 역성장 속…전기·하이브리드는 20~40% '질주' (2026.10.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/030/0003474871?type=series&amp;cid=2001287</link>
-      <description>언론사: 전자신문 / 등록일: 2026.10.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/030/0003474871?type=series&amp;cid=2001287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:36:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] 폭주한 AI 맞서는 SF 생존 신작…라인게임즈 '코드엑시트' 해보니 (2026.10.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002440870?type=series&amp;cid=2002449</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.10.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002440870?type=series&amp;cid=2002449</guid>
-      <pubDate>Wed, 14 Oct 2026 11:11:12 +0900</pubDate>
     </item>
   </channel>
 </rss>
