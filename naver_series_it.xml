@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 15 Oct 2026 21:41:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:01:08 +0900</lastBuildDate>
+    <item>
+      <title>[아이뉴스24] 복잡한 물질 적층 공정 간소화→초미세·초저전력 반도체 만든다 (2026.10.16.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001066533?type=series&amp;cid=1087778</link>
+      <description>언론사: 아이뉴스24 / 등록일: 2026.10.16.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001066533?type=series&amp;cid=1087778</guid>
+      <pubDate>Fri, 16 Oct 2026 03:01:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[아시아경제] 반도체도 '레고'처럼 만든다…원자 바꿔 절연막·전극까지 한 번에 (2026.10.16.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005829217?type=series&amp;cid=1017775</link>
+      <description>언론사: 아시아경제 / 등록일: 2026.10.16.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005829217?type=series&amp;cid=1017775</guid>
+      <pubDate>Fri, 16 Oct 2026 03:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] &quot;7만5천년 전 네안데르탈인, 나무 창에 찔려 숨졌을까&quot; (2026.10.16.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016380273?type=series&amp;cid=1087298</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.16.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016380273?type=series&amp;cid=1087298</guid>
+      <pubDate>Fri, 16 Oct 2026 00:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>[헤럴드경제] “전부 다 헛수고라고?” 하나씩 씻고 말렸는데 ‘충격’…문제의 우유팩, 알고 보니 (2026.10.15.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/016/0002709991?type=series&amp;cid=2000342</link>
@@ -110,27 +131,6 @@
       <description>언론사: 디지털데일리 / 등록일: 2026.10.15.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244832?type=series&amp;cid=1087353</guid>
       <pubDate>Thu, 15 Oct 2026 14:20:06 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아이뉴스24] 형태 바꾸면서 안정적 전기 생산 '3차원 태양광 시스템' 나왔다 (2026.10.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001066299?type=series&amp;cid=1087778</link>
-      <description>언론사: 아이뉴스24 / 등록일: 2026.10.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001066299?type=series&amp;cid=1087778</guid>
-      <pubDate>Thu, 15 Oct 2026 12:01:18 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] 종이처럼 접고 5배 늘려도 발전…KIST, 변신하는 태양전지 개발 (2026.10.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005828962?type=series&amp;cid=1017775</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.10.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005828962?type=series&amp;cid=1017775</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] 299달러 애플 ‘홈뷰’의 배신…2년 전 완성해 놓고 ‘시리 AI 지연’ 탓에 출시 연기 (2026.10.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002244814?type=series&amp;cid=2003053</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002244814?type=series&amp;cid=2003053</guid>
-      <pubDate>Thu, 15 Oct 2026 11:52:10 +0900</pubDate>
     </item>
   </channel>
 </rss>
