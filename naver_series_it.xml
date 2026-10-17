@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:03:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:13:12 +0900</lastBuildDate>
+    <item>
+      <title>[ZDNet Korea] 어제의 적이 동지로…AI 發 빅테크 전선 재편 (2026.10.17.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002441304?type=series&amp;cid=2002669</link>
+      <description>언론사: ZDNet Korea / 등록일: 2026.10.17.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002441304?type=series&amp;cid=2002669</guid>
+      <pubDate>Sat, 17 Oct 2026 10:13:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>[농민신문] 운동했으니 더 먹어도 될까…“스마트워치 칼로리, 너무 믿지 마세요” (2026.10.17.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/662/0000106296?type=series&amp;cid=2003615</link>
+      <description>언론사: 농민신문 / 등록일: 2026.10.17.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/662/0000106296?type=series&amp;cid=2003615</guid>
+      <pubDate>Sat, 17 Oct 2026 10:09:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] “배상액 7.7조원 취소하라”…애플, 아이폰 햅틱 특허 평결에 '불복' (2026.10.17.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245061?type=series&amp;cid=2003053</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.17.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245061?type=series&amp;cid=2003053</guid>
+      <pubDate>Sat, 17 Oct 2026 10:06:16 +0900</pubDate>
+    </item>
     <item>
       <title>[ZDNet Korea] 우주에서 포착된 알록달록 ‘거대한 조각보’…정체는 (2026.10.17.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/092/0002441303?type=series&amp;cid=2002926</link>
@@ -110,27 +131,6 @@
       <description>언론사: 주간경향 / 등록일: 2026.10.17.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000052772?type=series&amp;cid=2002178</guid>
       <pubDate>Sat, 17 Oct 2026 06:05:04 +0900</pubDate>
-    </item>
-    <item>
-      <title>[조선비즈] 점심 9000원 그대로… 헬리오시티 뷔페, 3개월 만에 돌아왔다 (2026.10.17.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001198528?type=series&amp;cid=1087841</link>
-      <description>언론사: 조선비즈 / 등록일: 2026.10.17.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001198528?type=series&amp;cid=1087841</guid>
-      <pubDate>Sat, 17 Oct 2026 06:03:25 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] “배상액 7.7조원 취소하라”…애플, 아이폰 햅틱 특허 평결에 '불복' (2026.10.17.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245061?type=series&amp;cid=2003053</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.17.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245061?type=series&amp;cid=2003053</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[헤럴드경제] “미국·중국보다 심각한 ‘환경 오염’” 한국인들 ‘꼴찌’ 굴욕…어쩌다 이렇게까지 (2026.10.16.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002710524?type=series&amp;cid=2000342</link>
-      <description>언론사: 헤럴드경제 / 등록일: 2026.10.16.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002710524?type=series&amp;cid=2000342</guid>
-      <pubDate>Fri, 16 Oct 2026 21:40:17 +0900</pubDate>
     </item>
   </channel>
 </rss>
