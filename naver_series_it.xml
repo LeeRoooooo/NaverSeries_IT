@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 17 Oct 2026 19:49:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:15:02 +0900</lastBuildDate>
+    <item>
+      <title>[연합뉴스] 초대형 AI데이터센터 1곳, 연간 법인세 8천억원 추산 (2026.10.18.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016383232?type=series&amp;cid=2003824</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.18.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016383232?type=series&amp;cid=2003824</guid>
+      <pubDate>Sun, 18 Oct 2026 06:15:02 +0900</pubDate>
+    </item>
     <item>
       <title>[농민신문] “여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유 (2026.10.17.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/662/0000106314?type=series&amp;cid=2003615</link>
@@ -124,13 +131,6 @@
       <description>언론사: 아시아경제 / 등록일: 2026.10.17.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005829697?type=series&amp;cid=2001220</guid>
       <pubDate>Sat, 17 Oct 2026 06:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[주간경향] 홧김에 앱을 만드는 세상 (2026.10.17.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/033/0000052772?type=series&amp;cid=2002178</link>
-      <description>언론사: 주간경향 / 등록일: 2026.10.17.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000052772?type=series&amp;cid=2002178</guid>
-      <pubDate>Sat, 17 Oct 2026 06:05:04 +0900</pubDate>
     </item>
   </channel>
 </rss>
