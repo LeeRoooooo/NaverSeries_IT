@@ -5,9 +5,16 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:36:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:57:12 +0900</lastBuildDate>
     <item>
-      <title>[ZDNet Korea] 빅테크 실적 발표...과방위 국감 마무리 (2026.10.18.)</title>
+      <title>[ZDNet Korea] [기자수첩] 중국 상포, 국내 HCI 시장 확대...데이터 주권 문제 없나 (2026.10.18.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002441368?type=series&amp;cid=2000066</link>
+      <description>언론사: ZDNet Korea / 등록일: 2026.10.18.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002441368?type=series&amp;cid=2000066</guid>
+      <pubDate>Sun, 18 Oct 2026 18:57:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ZDNet Korea] 빅테크 실적 발표·과방위 종합국감 이목 집중 (2026.10.18.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/092/0002441367?type=series&amp;cid=2000541</link>
       <description>언론사: ZDNet Korea / 등록일: 2026.10.18.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002441367?type=series&amp;cid=2000541</guid>
@@ -21,7 +28,7 @@
       <pubDate>Sun, 18 Oct 2026 17:07:19 +0900</pubDate>
     </item>
     <item>
-      <title>[디지털타임스] “전자선만 쐈을 뿐인데, 극강 악취 싹∼”…99.9% 이상 제거 (2026.10.18.)</title>
+      <title>[디지털타임스] &quot;전자선만 쐈을 뿐인데, 극강 악취 싹∼&quot;…99.9% 이상 제거 (2026.10.18.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/029/0003053676?type=series&amp;cid=2001559</link>
       <description>언론사: 디지털타임스 / 등록일: 2026.10.18.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/029/0003053676?type=series&amp;cid=2001559</guid>
@@ -124,13 +131,6 @@
       <description>언론사: 디지털데일리 / 등록일: 2026.10.18.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245084?type=series&amp;cid=2000113</guid>
       <pubDate>Sun, 18 Oct 2026 08:47:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] 셀은 반등, 소재는 주춤…K-배터리 회복 온도차 [위클리배터리] (2026.10.18.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245083?type=series&amp;cid=1089789</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.18.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245083?type=series&amp;cid=1089789</guid>
-      <pubDate>Sun, 18 Oct 2026 08:46:19 +0900</pubDate>
     </item>
   </channel>
 </rss>
