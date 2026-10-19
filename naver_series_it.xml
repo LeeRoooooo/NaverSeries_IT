@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:32:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:01:00 +0900</lastBuildDate>
+    <item>
+      <title>[연합뉴스] 빠르게 굴러가는 뱀의 비결은…&quot;몸통 회전해도 머리는 안정&quot; (2026.10.20.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016387003?type=series&amp;cid=1087298</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.20.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016387003?type=series&amp;cid=1087298</guid>
+      <pubDate>Tue, 20 Oct 2026 00:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>[서울신문] 유럽 폭설·지중해 홍수 부른다?…북극 겨울 해빙, 과소평가됐다 (2026.10.19.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/081/0003690392?type=series&amp;cid=1089231</link>
@@ -124,13 +131,6 @@
       <description>언론사: 뉴스1 / 등록일: 2026.10.19.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009235380?type=series&amp;cid=2000729</guid>
       <pubDate>Mon, 19 Oct 2026 10:07:18 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 카카오, 국내 첫 전국 시니어 AI 경진대회…3천여명 도전 (2026.10.19.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016384615?type=series&amp;cid=2003062</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.19.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016384615?type=series&amp;cid=2003062</guid>
-      <pubDate>Mon, 19 Oct 2026 09:25:36 +0900</pubDate>
     </item>
   </channel>
 </rss>
