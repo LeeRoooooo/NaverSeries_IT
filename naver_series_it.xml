@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:30:15 +0900</lastBuildDate>
+    <item>
+      <title>[서울경제] 메모리 품귀에 中 ‘중고 D램’ 재활용 성행…저가 IT기기 ‘먹통’ 우려[갭 월드] (2026.10.21.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004673382?type=series&amp;cid=2003276</link>
+      <description>언론사: 서울경제 / 등록일: 2026.10.21.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004673382?type=series&amp;cid=2003276</guid>
+      <pubDate>Wed, 21 Oct 2026 06:30:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[조선비즈] 멸종 도도새 복원에도 AI, 얼굴 결정하는 유전자 스위치 발견 (2026.10.21.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001199224?type=series&amp;cid=1089255</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.10.21.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001199224?type=series&amp;cid=1089255</guid>
+      <pubDate>Wed, 21 Oct 2026 06:01:30 +0900</pubDate>
+    </item>
     <item>
       <title>[디지털데일리] &quot;기존 감도 체계 깼다&quot;…커세어, 에임랩스 인지신경과학 결합 무선 마우스 '세이버 V3 프로' 발표 (2026.10.20.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245378?type=series&amp;cid=2003053</link>
@@ -117,20 +131,6 @@
       <description>언론사: 파이낸셜뉴스 / 등록일: 2026.10.20.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/014/0005591694?type=series&amp;cid=1087795</guid>
       <pubDate>Tue, 20 Oct 2026 11:09:15 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] 근·원거리 넘나드는 손맛…넷마블 '이블베인' 해보니 (2026.10.20.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002441594?type=series&amp;cid=2002449</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.10.20.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002441594?type=series&amp;cid=2002449</guid>
-      <pubDate>Tue, 20 Oct 2026 10:43:10 +0900</pubDate>
-    </item>
-    <item>
-      <title>[뉴스1] 비트코인 8.1만달러…&quot;매도세 주춤, 분할 매수 기회&quot; (2026.10.20.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/421/0009238016?type=series&amp;cid=2000729</link>
-      <description>언론사: 뉴스1 / 등록일: 2026.10.20.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009238016?type=series&amp;cid=2000729</guid>
-      <pubDate>Tue, 20 Oct 2026 10:38:40 +0900</pubDate>
     </item>
   </channel>
 </rss>
