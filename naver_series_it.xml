@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:01:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:00:04 +0900</lastBuildDate>
+    <item>
+      <title>[연합뉴스] &quot;반 고흐 '별이 빛나는 밤', 실제 새벽하늘 풍경일 가능성 커&quot; (2026.10.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016395575?type=series&amp;cid=1087298</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016395575?type=series&amp;cid=1087298</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:04 +0900</pubDate>
+    </item>
     <item>
       <title>[디지털데일리] 전역만 기다리던 이병이 전쟁터로…'모던 워페어4' 속 한반도 (2026.10.22.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245710?type=series&amp;cid=1088450</link>
@@ -124,13 +131,6 @@
       <description>언론사: 디지털데일리 / 등록일: 2026.10.22.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245578?type=series&amp;cid=2003053</guid>
       <pubDate>Thu, 22 Oct 2026 10:21:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[머니투데이] '보디가드 로봇'에 괴한 뒷걸음질…출시 언제? 예상가격 보니 (2026.10.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005430010?type=series&amp;cid=2001161</link>
-      <description>언론사: 머니투데이 / 등록일: 2026.10.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005430010?type=series&amp;cid=2001161</guid>
-      <pubDate>Thu, 22 Oct 2026 10:01:31 +0900</pubDate>
     </item>
   </channel>
 </rss>
