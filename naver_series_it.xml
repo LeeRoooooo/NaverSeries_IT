@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:21:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:01:23 +0900</lastBuildDate>
+    <item>
+      <title>[조선비즈] 서울의 커피 향, 뉴욕에 보낸다… 디지털 후각 전송 (2026.10.26.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001200186?type=series&amp;cid=2002194</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.10.26.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001200186?type=series&amp;cid=2002194</guid>
+      <pubDate>Mon, 26 Oct 2026 06:01:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>[한국일보] [인터뷰] 美전문가 &quot;판교 닮은 새너제이, 대중교통은 못 따라가&quot; (2026.10.26.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/469/0000961563?type=series&amp;cid=2001419</link>
+      <description>언론사: 한국일보 / 등록일: 2026.10.26.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/469/0000961563?type=series&amp;cid=2001419</guid>
+      <pubDate>Mon, 26 Oct 2026 04:31:11 +0900</pubDate>
+    </item>
     <item>
       <title>[아시아경제] 메타 기대·우려 공존…앤스로픽 IPO에 쏠린 눈 (2026.10.25.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/277/0005833099?type=series&amp;cid=2001220</link>
@@ -54,13 +68,6 @@
       <description>언론사: 아시아경제 / 등록일: 2026.10.25.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005833059?type=series&amp;cid=1017775</guid>
       <pubDate>Sun, 25 Oct 2026 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[한국일보] AI 기업은 부자 되는데… 실리콘밸리 새너제이 살림은 힘겨워 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/469/0000961458?type=series&amp;cid=2001419</link>
-      <description>언론사: 한국일보 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/469/0000961458?type=series&amp;cid=2001419</guid>
-      <pubDate>Sun, 25 Oct 2026 11:00:18 +0900</pubDate>
     </item>
     <item>
       <title>[비즈워치] 3분 카레보다 빠르다…말 한마디로 게임 '뚝딱' (2026.10.25.)</title>
@@ -124,13 +131,6 @@
       <description>언론사: 동아사이언스 / 등록일: 2026.10.25.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000039847?type=series&amp;cid=1077377</guid>
       <pubDate>Sun, 25 Oct 2026 08:01:12 +0900</pubDate>
-    </item>
-    <item>
-      <title>[경향신문] 조팝나무, 꽃도 예쁜데 이런 효능까지…‘근육 건강’ 개선 성분에 주목 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/032/0003478268?type=series&amp;cid=2000724</link>
-      <description>언론사: 경향신문 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/032/0003478268?type=series&amp;cid=2000724</guid>
-      <pubDate>Sun, 25 Oct 2026 08:00:02 +0900</pubDate>
     </item>
   </channel>
 </rss>
