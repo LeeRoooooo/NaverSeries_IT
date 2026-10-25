@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:13:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:21:11 +0900</lastBuildDate>
+    <item>
+      <title>[아시아경제] 메타 기대·우려 공존…앤스로픽 IPO에 쏠린 눈 (2026.10.25.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005833099?type=series&amp;cid=2001220</link>
+      <description>언론사: 아시아경제 / 등록일: 2026.10.25.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005833099?type=series&amp;cid=2001220</guid>
+      <pubDate>Sun, 25 Oct 2026 16:21:11 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] 삶의 궤도에서 길을 잃다…'오사카 환상선' vs '저궤도인간' (2026.10.25.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245913?type=series&amp;cid=1089782</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.25.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245913?type=series&amp;cid=1089782</guid>
+      <pubDate>Sun, 25 Oct 2026 16:15:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>[비즈워치] 배터리를 '마른 반죽'으로 만든다고?…건식 극판의 비밀 (2026.10.25.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/648/0000051913?type=series&amp;cid=2000034</link>
+      <description>언론사: 비즈워치 / 등록일: 2026.10.25.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/648/0000051913?type=series&amp;cid=2000034</guid>
+      <pubDate>Sun, 25 Oct 2026 15:00:11 +0900</pubDate>
+    </item>
     <item>
       <title>[이데일리] 늦어도 죽고, 해킹 못 막아도 처벌…진나라의 함정 되풀이하나 [김현아의 IT세상읽기] (2026.10.25.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/018/0006395824?type=series&amp;cid=1084419</link>
@@ -110,27 +131,6 @@
       <description>언론사: 경향신문 / 등록일: 2026.10.25.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/032/0003478268?type=series&amp;cid=2000724</guid>
       <pubDate>Sun, 25 Oct 2026 08:00:02 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 애플 &quot;기존 폴더블폰서 영감 못 얻어…듀오는 다르다&quot; (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016398456?type=series&amp;cid=2003567</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016398456?type=series&amp;cid=2003567</guid>
-      <pubDate>Sun, 25 Oct 2026 07:33:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[이코노미스트] 엔씨, 서브컬처 신작 ‘아스오라’ 통해 이미지 변신 성공할까 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/243/0000104667?type=series&amp;cid=1089617</link>
-      <description>언론사: 이코노미스트 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/243/0000104667?type=series&amp;cid=1089617</guid>
-      <pubDate>Sun, 25 Oct 2026 07:01:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 금강 위 둥근 다리 달리니 가을이 한눈에…빗속 세종런 (2026.10.24.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016398116?type=series&amp;cid=2003553</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.24.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016398116?type=series&amp;cid=2003553</guid>
-      <pubDate>Sat, 24 Oct 2026 17:00:58 +0900</pubDate>
     </item>
   </channel>
 </rss>
