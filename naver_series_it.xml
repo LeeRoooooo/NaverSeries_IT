@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:01:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:08:54 +0900</lastBuildDate>
+    <item>
+      <title>[머니투데이] &quot;돈 줄 막혔다&quot; 머스크, AI데이터센터 대규모 구조조정 예고 (2026.10.26.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005431391?type=series&amp;cid=2001161</link>
+      <description>언론사: 머니투데이 / 등록일: 2026.10.26.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005431391?type=series&amp;cid=2001161</guid>
+      <pubDate>Mon, 26 Oct 2026 08:08:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이데일리] “폴더블 중 수리성 최고” 아이폰 듀오…화면은 여전히 숙제 (2026.10.26.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006396023?type=series&amp;cid=2002833</link>
+      <description>언론사: 이데일리 / 등록일: 2026.10.26.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006396023?type=series&amp;cid=2002833</guid>
+      <pubDate>Mon, 26 Oct 2026 07:42:19 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] [DD 주간브리핑] 삼전·닉스 반도체부터 현대차·기아까지... 이번 주 3분기 실적 슈퍼위크 돌입 (2026.10.26.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002245922?type=series&amp;cid=1088461</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.26.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002245922?type=series&amp;cid=1088461</guid>
+      <pubDate>Mon, 26 Oct 2026 06:56:10 +0900</pubDate>
+    </item>
     <item>
       <title>[조선비즈] 서울의 커피 향, 뉴욕에 보낸다… 디지털 후각 전송 (2026.10.26.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/366/0001200186?type=series&amp;cid=2002194</link>
@@ -98,13 +119,6 @@
       <pubDate>Sun, 25 Oct 2026 09:47:08 +0900</pubDate>
     </item>
     <item>
-      <title>[머니투데이] &quot;삼성은 멀쩡한데 애플은 줄 쫙&quot;…329만원 아이폰 듀오의 굴욕 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005431183?type=series&amp;cid=2001161</link>
-      <description>언론사: 머니투데이 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005431183?type=series&amp;cid=2001161</guid>
-      <pubDate>Sun, 25 Oct 2026 09:33:41 +0900</pubDate>
-    </item>
-    <item>
       <title>[연합뉴스] 수술 일정 짜고 순찰도 돈다…AI의 진화 어디까지 (2026.10.25.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/001/0016398583?type=series&amp;cid=2003568</link>
       <description>언론사: 연합뉴스 / 등록일: 2026.10.25.</description>
@@ -117,20 +131,6 @@
       <description>언론사: 아이뉴스24 / 등록일: 2026.10.25.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001069011?type=series&amp;cid=1087778</guid>
       <pubDate>Sun, 25 Oct 2026 09:01:07 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] AI 해킹 시대, PHP 사태가 드러낸 한국 보안의 약한 고리 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016398529?type=series&amp;cid=2003824</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016398529?type=series&amp;cid=2003824</guid>
-      <pubDate>Sun, 25 Oct 2026 08:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[동아사이언스] 실제 의료진단 과정 모방한 AI…의사 넘은 정확도 (2026.10.25.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000039847?type=series&amp;cid=1077377</link>
-      <description>언론사: 동아사이언스 / 등록일: 2026.10.25.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000039847?type=series&amp;cid=1077377</guid>
-      <pubDate>Sun, 25 Oct 2026 08:01:12 +0900</pubDate>
     </item>
   </channel>
 </rss>
