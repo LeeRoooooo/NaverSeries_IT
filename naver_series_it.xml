@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:41:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:00:01 +0900</lastBuildDate>
+    <item>
+      <title>[연합뉴스] &quot;모기 수컷이 암컷 날갯짓 소리에 끌리는 이유 찾았다&quot; (2026.10.28.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016404686?type=series&amp;cid=1087298</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.28.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016404686?type=series&amp;cid=1087298</guid>
+      <pubDate>Wed, 28 Oct 2026 03:00:01 +0900</pubDate>
+    </item>
     <item>
       <title>[헤럴드경제] “동네 하천에 ‘괴물 물고기’가 산다” 왜 이러나 했더니…놀라운 실태, 버려진 물고기들 (2026.10.27.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/016/0002715143?type=series&amp;cid=2000342</link>
@@ -124,13 +131,6 @@
       <description>언론사: 아시아경제 / 등록일: 2026.10.27.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005833989?type=series&amp;cid=1017775</guid>
       <pubDate>Tue, 27 Oct 2026 11:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 카카오프렌즈, 디즈니와 '칩 앤 데일' 제품 12종 출시 (2026.10.27.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016402249?type=series&amp;cid=2003093</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.27.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016402249?type=series&amp;cid=2003093</guid>
-      <pubDate>Tue, 27 Oct 2026 10:19:42 +0900</pubDate>
     </item>
   </channel>
 </rss>
