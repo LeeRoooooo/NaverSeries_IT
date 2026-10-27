@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:00:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:31:38 +0900</lastBuildDate>
+    <item>
+      <title>[연합뉴스] 갤럭시 워치, AI로 수면 중 호흡 장애 수준 분석한다 (2026.10.28.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016404869?type=series&amp;cid=2003062</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.28.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016404869?type=series&amp;cid=2003062</guid>
+      <pubDate>Wed, 28 Oct 2026 08:31:38 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] 애플, 터치스크린 맥북 프로 역대 최고가 책정 (2026.10.28.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002246242?type=series&amp;cid=2003053</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.10.28.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002246242?type=series&amp;cid=2003053</guid>
+      <pubDate>Wed, 28 Oct 2026 08:23:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이데일리] 아이폰에 저장한 일정, 이제 챗GPT가 챙긴다 (2026.10.28.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006397581?type=series&amp;cid=2002833</link>
+      <description>언론사: 이데일리 / 등록일: 2026.10.28.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006397581?type=series&amp;cid=2002833</guid>
+      <pubDate>Wed, 28 Oct 2026 08:04:18 +0900</pubDate>
+    </item>
     <item>
       <title>[연합뉴스] &quot;모기 수컷이 암컷 날갯짓 소리에 끌리는 이유 찾았다&quot; (2026.10.28.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/001/0016404686?type=series&amp;cid=1087298</link>
@@ -91,13 +112,6 @@
       <pubDate>Tue, 27 Oct 2026 14:10:12 +0900</pubDate>
     </item>
     <item>
-      <title>[연합뉴스] KT, AI 모델 통합 '토큰팩토리' 30일 출시…500여종 연계(종합) (2026.10.27.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016402932?type=series&amp;cid=2003062</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.27.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016402932?type=series&amp;cid=2003062</guid>
-      <pubDate>Tue, 27 Oct 2026 12:04:12 +0900</pubDate>
-    </item>
-    <item>
       <title>[연합뉴스] &quot;혼자서도 해외 마케팅&quot;…AI가 단번에 크리에이터 섭외 (2026.10.27.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/001/0016402822?type=series&amp;cid=2003824</link>
       <description>언론사: 연합뉴스 / 등록일: 2026.10.27.</description>
@@ -117,20 +131,6 @@
       <description>언론사: ZDNet Korea / 등록일: 2026.10.27.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002442535?type=series&amp;cid=2003612</guid>
       <pubDate>Tue, 27 Oct 2026 11:29:16 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털데일리] 오픈이어 강자 샥즈에 도전장…삼성 첫 클립형 ‘버즈 온’ 출격 (2026.10.27.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002246141?type=series&amp;cid=2003053</link>
-      <description>언론사: 디지털데일리 / 등록일: 2026.10.27.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002246141?type=series&amp;cid=2003053</guid>
-      <pubDate>Tue, 27 Oct 2026 11:23:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] 100년간 없던 폭염·가뭄 일상 됐다…유라시아 초원 기후 급변 (2026.10.27.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005833989?type=series&amp;cid=1017775</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.10.27.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005833989?type=series&amp;cid=1017775</guid>
-      <pubDate>Tue, 27 Oct 2026 11:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
