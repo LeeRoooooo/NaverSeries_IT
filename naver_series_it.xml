@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:00:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:40:18 +0900</lastBuildDate>
+    <item>
+      <title>[헤럴드경제] “엄마, 배고파” 2살 아이가 움직이지 않았다…하늘이 준 고통, 책임은 누구에게 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002717026?type=series&amp;cid=2000342</link>
+      <description>언론사: 헤럴드경제 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002717026?type=series&amp;cid=2000342</guid>
+      <pubDate>Sat, 31 Oct 2026 18:40:18 +0900</pubDate>
+    </item>
     <item>
       <title>[비즈워치] 네이버와 카카오의 '이름값' (2026.10.31.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/648/0000052143?type=series&amp;cid=2003484</link>
@@ -124,13 +131,6 @@
       <description>언론사: 연합뉴스 / 등록일: 2026.10.31.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016413045?type=series&amp;cid=2003045</guid>
       <pubDate>Sat, 31 Oct 2026 06:33:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[주간경향] AI와 로봇에게 예의를 갖춰야 하는 시대 (2026.10.31.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/033/0000053048?type=series&amp;cid=2002178</link>
-      <description>언론사: 주간경향 / 등록일: 2026.10.31.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000053048?type=series&amp;cid=2002178</guid>
-      <pubDate>Sat, 31 Oct 2026 06:03:03 +0900</pubDate>
     </item>
   </channel>
 </rss>
