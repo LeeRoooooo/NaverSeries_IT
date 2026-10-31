@@ -5,7 +5,56 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:44:17 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:00:15 +0900</lastBuildDate>
+    <item>
+      <title>[비즈워치] 네이버와 카카오의 '이름값' (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/648/0000052143?type=series&amp;cid=2003484</link>
+      <description>언론사: 비즈워치 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/648/0000052143?type=series&amp;cid=2003484</guid>
+      <pubDate>Sat, 31 Oct 2026 14:00:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ZDNet Korea] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002443273?type=series&amp;cid=2002669</link>
+      <description>언론사: ZDNet Korea / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002443273?type=series&amp;cid=2002669</guid>
+      <pubDate>Sat, 31 Oct 2026 12:49:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울경제] 붉은사막, 바다로 모험 확장…미지의 섬부터 수중 보물까지 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004677290?type=series&amp;cid=2002834</link>
+      <description>언론사: 서울경제 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004677290?type=series&amp;cid=2002834</guid>
+      <pubDate>Sat, 31 Oct 2026 12:02:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[파이낸셜뉴스] 애플, 아이폰 듀오 화면 균열 대응 지침 배포…수리·교체 안내 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/014/0005597342?type=series&amp;cid=1087795</link>
+      <description>언론사: 파이낸셜뉴스 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/014/0005597342?type=series&amp;cid=1087795</guid>
+      <pubDate>Sat, 31 Oct 2026 10:41:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[ZDNet Korea] ‘서울 2배’ 남극 빙산, 뜻밖 장애물…좌초 우려 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002443263?type=series&amp;cid=2002926</link>
+      <description>언론사: ZDNet Korea / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002443263?type=series&amp;cid=2002926</guid>
+      <pubDate>Sat, 31 Oct 2026 09:41:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>[한국경제] &quot;후회말고 삼성전자 사라&quot;…100조 '뉴노멀'에 개미도 들썩 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/015/0005348740?type=series&amp;cid=2003107</link>
+      <description>언론사: 한국경제 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/015/0005348740?type=series&amp;cid=2003107</guid>
+      <pubDate>Sat, 31 Oct 2026 09:31:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] AI가 쓴 글로 AI 공부시키면…'모델 붕괴'란 (2026.10.31.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016413153?type=series&amp;cid=2003345</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.10.31.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016413153?type=series&amp;cid=2003345</guid>
+      <pubDate>Sat, 31 Oct 2026 09:30:01 +0900</pubDate>
+    </item>
     <item>
       <title>[조선비즈] 과학자들의 스타였던 피카드 선장, 별이 되다 (2026.10.31.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/366/0001201677?type=series&amp;cid=1089255</link>
@@ -49,7 +98,7 @@
       <pubDate>Sat, 31 Oct 2026 07:28:52 +0900</pubDate>
     </item>
     <item>
-      <title>[아시아경제] 의외로 돈 못 버는 中 AI…그래도 자본 쏟아붓는 이유? (2026.10.31.)</title>
+      <title>[아시아경제] 시간당 9000원 GPU로 마진 82% 뽑아낸다…美에 체급 밀린 中딥시크의 '생존술' (2026.10.31.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/277/0005836082?type=series&amp;cid=2001402</link>
       <description>언론사: 아시아경제 / 등록일: 2026.10.31.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005836082?type=series&amp;cid=2001402</guid>
@@ -82,55 +131,6 @@
       <description>언론사: 주간경향 / 등록일: 2026.10.31.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000053048?type=series&amp;cid=2002178</guid>
       <pubDate>Sat, 31 Oct 2026 06:03:03 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울신문] 화성에 물 있었다…사하라서 발견된 ‘화성 운석’ 알고 보니 41억 년 전 형성 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003694421?type=series&amp;cid=1064685</link>
-      <description>언론사: 서울신문 / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003694421?type=series&amp;cid=1064685</guid>
-      <pubDate>Fri, 30 Oct 2026 19:02:12 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] 지구 10도 더워져도 동남극 빙상 버틴다…뜻밖의 이유 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005836039?type=series&amp;cid=1017775</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005836039?type=series&amp;cid=1017775</guid>
-      <pubDate>Fri, 30 Oct 2026 19:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[헤럴드경제] “이게 다 쌀이라고?” 멀쩡한 곡식 ‘땅바닥’에 뿌린 농민들…숨겨진 사연, 대체 무슨 일이 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002716866?type=series&amp;cid=2000342</link>
-      <description>언론사: 헤럴드경제 / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002716866?type=series&amp;cid=2000342</guid>
-      <pubDate>Fri, 30 Oct 2026 18:41:07 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 얼굴로 입장하고 밥값도 결제…성수서 만난 네이버 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016412562?type=series&amp;cid=2003553</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016412562?type=series&amp;cid=2003553</guid>
-      <pubDate>Fri, 30 Oct 2026 17:36:23 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] &quot;AI로 벌고 환차손에 울고&quot;…삼성SDS·LG CNS·현대오토에버, 3Q 실적 '희비' (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002443232?type=series&amp;cid=2001973</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002443232?type=series&amp;cid=2001973</guid>
-      <pubDate>Fri, 30 Oct 2026 17:11:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] 코히어, 미·중 AI 양강에 도전장…유럽과 손잡고 독자 생태계 키운다 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002443231?type=series&amp;cid=2002669</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002443231?type=series&amp;cid=2002669</guid>
-      <pubDate>Fri, 30 Oct 2026 17:10:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[이코노미스트] ‘도깨비’ 흥행으로 한숨 돌린 카카오게임즈 (2026.10.30.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/243/0000105000?type=series&amp;cid=1089617</link>
-      <description>언론사: 이코노미스트 / 등록일: 2026.10.30.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/243/0000105000?type=series&amp;cid=1089617</guid>
-      <pubDate>Fri, 30 Oct 2026 17:02:06 +0900</pubDate>
     </item>
   </channel>
 </rss>
