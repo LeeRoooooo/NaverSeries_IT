@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:00:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:01:10 +0900</lastBuildDate>
+    <item>
+      <title>[이데일리] 안드로이드17은 1%, iOS 27은 36%…왜 차이 날까 (2026.11.05.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006403898?type=series&amp;cid=2002833</link>
+      <description>언론사: 이데일리 / 등록일: 2026.11.05.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006403898?type=series&amp;cid=2002833</guid>
+      <pubDate>Thu, 05 Nov 2026 07:01:10 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울신문] 우리가 몰랐던 빛이 가린 ‘별의 민낯’ (2026.11.05.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003695889?type=series&amp;cid=1089231</link>
+      <description>언론사: 서울신문 / 등록일: 2026.11.05.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003695889?type=series&amp;cid=1089231</guid>
+      <pubDate>Thu, 05 Nov 2026 05:02:11 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울경제] ‘길드워’, 20년 만에 신규 유료 DLC…내년 1월 출시 (2026.11.05.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004678849?type=series&amp;cid=2002834</link>
+      <description>언론사: 서울경제 / 등록일: 2026.11.05.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004678849?type=series&amp;cid=2002834</guid>
+      <pubDate>Thu, 05 Nov 2026 05:00:20 +0900</pubDate>
+    </item>
     <item>
       <title>[연합뉴스] 격투기 구경하면 싸움 잘할까?…&quot;생쥐 실험서 일부 효과 확인&quot; (2026.11.05.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/001/0016422844?type=series&amp;cid=1087298</link>
@@ -110,27 +131,6 @@
       <description>언론사: 연합뉴스 / 등록일: 2026.11.04.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016421022?type=series&amp;cid=2003062</guid>
       <pubDate>Wed, 04 Nov 2026 11:42:24 +0900</pubDate>
-    </item>
-    <item>
-      <title>[뉴스1] 美 중간선거 불확실성에…비트코인, 7.7만달러 다시 반납 (2026.11.04.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/421/0009269398?type=series&amp;cid=2000729</link>
-      <description>언론사: 뉴스1 / 등록일: 2026.11.04.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009269398?type=series&amp;cid=2000729</guid>
-      <pubDate>Wed, 04 Nov 2026 11:24:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] AMD &quot;소버린 AI, 국산화보다 기술 선택권이 핵심&quot; (2026.11.04.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016420786?type=series&amp;cid=2003824</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.04.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016420786?type=series&amp;cid=2003824</guid>
-      <pubDate>Wed, 04 Nov 2026 10:56:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] 전압 낮추고 수명 늘렸다…서울대, 차세대 메모리 소자 개발 (2026.11.04.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005837861?type=series&amp;cid=1017775</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.11.04.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005837861?type=series&amp;cid=1017775</guid>
-      <pubDate>Wed, 04 Nov 2026 10:42:02 +0900</pubDate>
     </item>
   </channel>
 </rss>
