@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:41:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:05:05 +0900</lastBuildDate>
+    <item>
+      <title>[주간경향] 오욕의 디지털 허상 (2026.11.07.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/033/0000053212?type=series&amp;cid=2002178</link>
+      <description>언론사: 주간경향 / 등록일: 2026.11.07.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000053212?type=series&amp;cid=2002178</guid>
+      <pubDate>Sat, 07 Nov 2026 06:05:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] &quot;즐거운 대화 비결은 '티키타카'…맞장구와 새 이야기의 조화&quot; (2026.11.07.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016427580?type=series&amp;cid=1087298</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.07.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016427580?type=series&amp;cid=1087298</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:02 +0900</pubDate>
+    </item>
     <item>
       <title>[헤럴드경제] “라면, 꼭 냄비에 끓여 먹어야” 귀찮다고 ‘컵라면’ 물 부었더니…찝찝한 물질 ‘수두룩’ (2026.11.06.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/016/0002720116?type=series&amp;cid=2000342</link>
@@ -117,20 +131,6 @@
       <description>언론사: 서울신문 / 등록일: 2026.11.06.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003696510?type=series&amp;cid=1089231</guid>
       <pubDate>Fri, 06 Nov 2026 11:32:19 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] &quot;우주쓰레기인 줄 알았는데&quot;…지구의 '미니 달' (2026.11.06.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002444192?type=series&amp;cid=1088063</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.11.06.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002444192?type=series&amp;cid=1088063</guid>
-      <pubDate>Fri, 06 Nov 2026 11:25:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[조선비즈] 시베리아 유목민, 2800년 전부터 대마 피웠다 (2026.11.06.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001203036?type=series&amp;cid=1089255</link>
-      <description>언론사: 조선비즈 / 등록일: 2026.11.06.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001203036?type=series&amp;cid=1089255</guid>
-      <pubDate>Fri, 06 Nov 2026 11:11:13 +0900</pubDate>
     </item>
   </channel>
 </rss>
