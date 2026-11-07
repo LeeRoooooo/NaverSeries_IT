@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:14:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:55:09 +0900</lastBuildDate>
+    <item>
+      <title>[디지털데일리] 美 중간선거 결과, 그래도 K반도체가 안도하는 이유… 마이크론은 대만 팹 중단 '암초' [위클리반도체] (2026.11.07.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002247651?type=series&amp;cid=2000113</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.11.07.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002247651?type=series&amp;cid=2000113</guid>
+      <pubDate>Sat, 07 Nov 2026 22:55:09 +0900</pubDate>
+    </item>
     <item>
       <title>[더스쿠프] 美 이통3사에 퇴짜 맞은 스페이스X… 왜 '퀄컴'과 손잡았나 [IT+] (2026.11.07.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/665/0000008513?type=series&amp;cid=2000376</link>
@@ -124,13 +131,6 @@
       <description>언론사: 연합뉴스 / 등록일: 2026.11.07.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016427580?type=series&amp;cid=1087298</guid>
       <pubDate>Sat, 07 Nov 2026 06:00:02 +0900</pubDate>
-    </item>
-    <item>
-      <title>[헤럴드경제] “라면, 꼭 냄비에 끓여 먹어야” 귀찮다고 ‘컵라면’ 물 부었더니…찝찝한 물질 ‘수두룩’ (2026.11.06.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002720116?type=series&amp;cid=2000342</link>
-      <description>언론사: 헤럴드경제 / 등록일: 2026.11.06.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002720116?type=series&amp;cid=2000342</guid>
-      <pubDate>Fri, 06 Nov 2026 19:41:14 +0900</pubDate>
     </item>
   </channel>
 </rss>
