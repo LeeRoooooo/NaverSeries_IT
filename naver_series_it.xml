@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 07 Nov 2026 10:01:10 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:14:12 +0900</lastBuildDate>
+    <item>
+      <title>[더스쿠프] 美 이통3사에 퇴짜 맞은 스페이스X… 왜 '퀄컴'과 손잡았나 [IT+] (2026.11.07.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/665/0000008513?type=series&amp;cid=2000376</link>
+      <description>언론사: 더스쿠프 / 등록일: 2026.11.07.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/665/0000008513?type=series&amp;cid=2000376</guid>
+      <pubDate>Sat, 07 Nov 2026 17:14:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] 공식 경로로 받았는데 악성코드…AI 공급망의 허점 (2026.11.07.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016427810?type=series&amp;cid=2003345</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.07.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016427810?type=series&amp;cid=2003345</guid>
+      <pubDate>Sat, 07 Nov 2026 13:10:01 +0900</pubDate>
+    </item>
     <item>
       <title>[서울신문] 멸종한 유제류 80%는 이동성…‘대이동’은 진화의 ‘양날의 칼’ (2026.11.07.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/081/0003696803?type=series&amp;cid=1089231</link>
@@ -117,20 +131,6 @@
       <description>언론사: 헤럴드경제 / 등록일: 2026.11.06.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002720116?type=series&amp;cid=2000342</guid>
       <pubDate>Fri, 06 Nov 2026 19:41:14 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울신문] AMD 마침내 인텔 넘어서나? 데이터센터 실적이 예고한 판도 변화 (2026.11.06.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003696682?type=series&amp;cid=1057683</link>
-      <description>언론사: 서울신문 / 등록일: 2026.11.06.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003696682?type=series&amp;cid=1057683</guid>
-      <pubDate>Fri, 06 Nov 2026 17:07:10 +0900</pubDate>
-    </item>
-    <item>
-      <title>[ZDNet Korea] &quot;게임쇼까지 파고든 AI&quot;…뤼튼·NC AI, 지스타서 존재감 키운다 (2026.11.06.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002444278?type=series&amp;cid=2001973</link>
-      <description>언론사: ZDNet Korea / 등록일: 2026.11.06.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002444278?type=series&amp;cid=2001973</guid>
-      <pubDate>Fri, 06 Nov 2026 17:03:10 +0900</pubDate>
     </item>
   </channel>
 </rss>
