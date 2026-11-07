@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 07 Nov 2026 22:55:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:01:12 +0900</lastBuildDate>
+    <item>
+      <title>[동아사이언스] 살 빼기 넘어 온몸으로…GLP-1의 무대 확장 (2026.11.08.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000040046?type=series&amp;cid=1077377</link>
+      <description>언론사: 동아사이언스 / 등록일: 2026.11.08.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000040046?type=series&amp;cid=1077377</guid>
+      <pubDate>Sun, 08 Nov 2026 08:01:12 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이코노미스트] 140만원 갤S26이 3만원까지…‘공짜폰’ 된 삼성 플래그십 (2026.11.08.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/243/0000105350?type=series&amp;cid=2003768</link>
+      <description>언론사: 이코노미스트 / 등록일: 2026.11.08.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/243/0000105350?type=series&amp;cid=2003768</guid>
+      <pubDate>Sun, 08 Nov 2026 08:01:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[뉴시스] AI 막았더니 검색도 못 한다?…구글이 학교에 던진 딜레마 (2026.11.08.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/003/0014308267?type=series&amp;cid=1089681</link>
+      <description>언론사: 뉴시스 / 등록일: 2026.11.08.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/003/0014308267?type=series&amp;cid=1089681</guid>
+      <pubDate>Sun, 08 Nov 2026 07:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>[디지털데일리] 美 중간선거 결과, 그래도 K반도체가 안도하는 이유… 마이크론은 대만 팹 중단 '암초' [위클리반도체] (2026.11.07.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/138/0002247651?type=series&amp;cid=2000113</link>
@@ -63,13 +84,6 @@
       <pubDate>Sat, 07 Nov 2026 09:32:08 +0900</pubDate>
     </item>
     <item>
-      <title>[동아사이언스] 스라소니, 먹이 줄자 솔개 새끼 사냥…기후변화가 바꾼 포식자 관계 (2026.11.07.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000040042?type=series&amp;cid=1077377</link>
-      <description>언론사: 동아사이언스 / 등록일: 2026.11.07.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000040042?type=series&amp;cid=1077377</guid>
-      <pubDate>Sat, 07 Nov 2026 08:01:21 +0900</pubDate>
-    </item>
-    <item>
       <title>[서울경제] 美 데이터센터 증설 차질 경고…삼성·SK 영향은 2028년부터?[갭 월드] (2026.11.07.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/011/0004679683?type=series&amp;cid=2003276</link>
       <description>언론사: 서울경제 / 등록일: 2026.11.07.</description>
@@ -117,20 +131,6 @@
       <description>언론사: 아시아경제 / 등록일: 2026.11.07.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005839356?type=series&amp;cid=2001220</guid>
       <pubDate>Sat, 07 Nov 2026 06:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[주간경향] 오욕의 디지털 허상 (2026.11.07.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/033/0000053212?type=series&amp;cid=2002178</link>
-      <description>언론사: 주간경향 / 등록일: 2026.11.07.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/033/0000053212?type=series&amp;cid=2002178</guid>
-      <pubDate>Sat, 07 Nov 2026 06:05:05 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] &quot;즐거운 대화 비결은 '티키타카'…맞장구와 새 이야기의 조화&quot; (2026.11.07.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016427580?type=series&amp;cid=1087298</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.07.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016427580?type=series&amp;cid=1087298</guid>
-      <pubDate>Sat, 07 Nov 2026 06:00:02 +0900</pubDate>
     </item>
   </channel>
 </rss>
