@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:41:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:33:14 +0900</lastBuildDate>
+    <item>
+      <title>[조선일보] “엔비디아·KAIST, 한국어 AI 학습 데이터 100만건 만들 것” (2026.11.11.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/023/0004008853?type=series&amp;cid=2003730</link>
+      <description>언론사: 조선일보 / 등록일: 2026.11.11.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/023/0004008853?type=series&amp;cid=2003730</guid>
+      <pubDate>Wed, 11 Nov 2026 00:33:14 +0900</pubDate>
+    </item>
     <item>
       <title>[헤럴드경제] “산 채로 ‘털’ 잡아 뜯어” 겨울철 필수 ‘캐시미어’의 비밀…옷 한 벌에 8마리 희생 (2026.11.10.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/016/0002721623?type=series&amp;cid=2000342</link>
@@ -40,13 +47,6 @@
       <description>언론사: 디지털데일리 / 등록일: 2026.11.10.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002247981?type=series&amp;cid=1089789</guid>
       <pubDate>Tue, 10 Nov 2026 16:25:17 +0900</pubDate>
-    </item>
-    <item>
-      <title>[조선일보] “한국어 데이터 100만건 만든다” 엔비디아·KAIST 4000억 규모 AI 연구 (2026.11.10.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/023/0004008811?type=series&amp;cid=2003730</link>
-      <description>언론사: 조선일보 / 등록일: 2026.11.10.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/023/0004008811?type=series&amp;cid=2003730</guid>
-      <pubDate>Tue, 10 Nov 2026 16:20:10 +0900</pubDate>
     </item>
     <item>
       <title>[경향신문] 삭제와 재유포 악순환 끊을까…인공지능이 나선 디지털 성범죄 추격전 (2026.11.10.)</title>
