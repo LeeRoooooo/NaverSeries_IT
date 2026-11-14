@@ -5,9 +5,30 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:31:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:00:01 +0900</lastBuildDate>
     <item>
-      <title>[한국경제] &quot;성공한 男, 불륜에 취약&quot;…젠슨 황 파문에 테크 빅샷 흑역사 재조명 (2026.11.14.)</title>
+      <title>[연합뉴스] 라디오에도 간접광고 도입하나…방송광고 규제 개선 논의 (2026.11.14.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016441833?type=series&amp;cid=2003093</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.14.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016441833?type=series&amp;cid=2003093</guid>
+      <pubDate>Sat, 14 Nov 2026 15:00:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울경제] 해치와 함께 서울 투어…퍼즐 풀고 명소 탐방까지 (2026.11.14.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004682158?type=series&amp;cid=2002834</link>
+      <description>언론사: 서울경제 / 등록일: 2026.11.14.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004682158?type=series&amp;cid=2002834</guid>
+      <pubDate>Sat, 14 Nov 2026 12:02:11 +0900</pubDate>
+    </item>
+    <item>
+      <title>[뉴스1] 파이버스, 일주일 새 19%↑…2.22달러 신고가까지 무슨 일이? (2026.11.14.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/421/0009288879?type=series&amp;cid=2003722</link>
+      <description>언론사: 뉴스1 / 등록일: 2026.11.14.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009288879?type=series&amp;cid=2003722</guid>
+      <pubDate>Sat, 14 Nov 2026 11:32:57 +0900</pubDate>
+    </item>
+    <item>
+      <title>[한국경제] 젠슨 황 쫓겨난 '불륜 스캔들'에…거물 CEO들의 흑역사 소환 (2026.11.14.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/015/0005353795?type=series&amp;cid=2003107</link>
       <description>언론사: 한국경제 / 등록일: 2026.11.14.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/015/0005353795?type=series&amp;cid=2003107</guid>
@@ -110,27 +131,6 @@
       <description>언론사: 조선비즈 / 등록일: 2026.11.14.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001204719?type=series&amp;cid=1089256</guid>
       <pubDate>Sat, 14 Nov 2026 06:01:45 +0900</pubDate>
-    </item>
-    <item>
-      <title>[조선비즈] 스피커 구멍 없앤 아이패드 미니… 스마트폰서 자취 감춘 ‘화면 진동’ 다시 꺼내 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001204716?type=series&amp;cid=1087841</link>
-      <description>언론사: 조선비즈 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001204716?type=series&amp;cid=1087841</guid>
-      <pubDate>Sat, 14 Nov 2026 06:01:26 +0900</pubDate>
-    </item>
-    <item>
-      <title>[파이낸셜뉴스] 중고가 22% 떨어진 아이폰 듀오…'패닉풀 논란' 18 프로는 30% 하락 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/014/0005604161?type=series&amp;cid=1087795</link>
-      <description>언론사: 파이낸셜뉴스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/014/0005604161?type=series&amp;cid=1087795</guid>
-      <pubDate>Sat, 14 Nov 2026 06:01:20 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] '퇴마록' 이우혁 &quot;AI는 고통 이해 못해…창작 도구에 불과&quot; (2026.11.13.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016441204?type=series&amp;cid=2003567</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.13.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016441204?type=series&amp;cid=2003567</guid>
-      <pubDate>Fri, 13 Nov 2026 17:22:20 +0900</pubDate>
     </item>
   </channel>
 </rss>
