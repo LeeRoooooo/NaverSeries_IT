@@ -5,13 +5,118 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:17:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:20:15 +0900</lastBuildDate>
     <item>
-      <title>[디지털데일리] 엔비디아 톱다운 시대 종말… 美 빅테크 잡은 삼성 파운드리 '턴키 전략' [위클리반도체] (2026.11.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002248567?type=series&amp;cid=2000113</link>
+      <title>[ZDNet Korea] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/092/0002445344?type=series&amp;cid=2000541</link>
+      <description>언론사: ZDNet Korea / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002445344?type=series&amp;cid=2000541</guid>
+      <pubDate>Sun, 15 Nov 2026 13:20:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[아이뉴스24] 너의 입 모양만으로도 난 소통한다 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001075085?type=series&amp;cid=1087778</link>
+      <description>언론사: 아이뉴스24 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001075085?type=series&amp;cid=1087778</guid>
+      <pubDate>Sun, 15 Nov 2026 12:01:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[전자신문] 젠슨 황 퇴진에 엔비디아 공급망 '재편'…韓 반도체 수요처 다변화 '기회' (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/030/0003485646?type=series&amp;cid=2001294</link>
+      <description>언론사: 전자신문 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/030/0003485646?type=series&amp;cid=2001294</guid>
+      <pubDate>Sun, 15 Nov 2026 11:23:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] &quot;AI가 불꽃·연기 분석&quot;…KT, 산업단지 화재안전 강화 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016442281?type=series&amp;cid=2003062</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016442281?type=series&amp;cid=2003062</guid>
+      <pubDate>Sun, 15 Nov 2026 11:03:40 +0900</pubDate>
+    </item>
+    <item>
+      <title>[비즈워치] 美 선거 뒤흔든 '데이터센터'…한국엔 득일까 독일까 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/648/0000052634?type=series&amp;cid=2003484</link>
+      <description>언론사: 비즈워치 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/648/0000052634?type=series&amp;cid=2003484</guid>
+      <pubDate>Sun, 15 Nov 2026 11:00:11 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] 유럽 다시 보는 K-배터리…완성차 협력·현지화 속도 [위클리배터리] (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002248585?type=series&amp;cid=1089789</link>
       <description>언론사: 디지털데일리 / 등록일: 2026.11.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002248567?type=series&amp;cid=2000113</guid>
-      <pubDate>Sun, 15 Nov 2026 08:17:10 +0900</pubDate>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002248585?type=series&amp;cid=1089789</guid>
+      <pubDate>Sun, 15 Nov 2026 11:00:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>[머니투데이] &quot;구글 AI칩, 엔비디아 못지않다&quot;…젠슨 황 퇴진에 판 뒤집히나 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005441183?type=series&amp;cid=2001161</link>
+      <description>언론사: 머니투데이 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005441183?type=series&amp;cid=2001161</guid>
+      <pubDate>Sun, 15 Nov 2026 10:57:46 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] 재능은 압도적, 거절은 단호하게…마법학교 생존법 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002248582?type=series&amp;cid=1089782</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002248582?type=series&amp;cid=1089782</guid>
+      <pubDate>Sun, 15 Nov 2026 10:36:21 +0900</pubDate>
+    </item>
+    <item>
+      <title>[농민신문] 세계 화석연료 CO₂ 배출 감소 전망…코로나19 이후 처음, 배경은? (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/662/0000108483?type=series&amp;cid=2003617</link>
+      <description>언론사: 농민신문 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/662/0000108483?type=series&amp;cid=2003617</guid>
+      <pubDate>Sun, 15 Nov 2026 10:05:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] &quot;AI에 맡길까, 내가 할까&quot;…방탈출로 체험한 미래 일터 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016442217?type=series&amp;cid=2003553</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016442217?type=series&amp;cid=2003553</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] AI 주도권 경쟁 새 국면…인프라 확보부터 현장 활용까지 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016442204?type=series&amp;cid=2003568</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016442204?type=series&amp;cid=2003568</guid>
+      <pubDate>Sun, 15 Nov 2026 09:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이데일리] 젠슨 황 변수에도 韓 AI는 간다…GAIF 2026에서 확인한 우리의 무기 [김현아의 IT세상읽기] (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006409903?type=series&amp;cid=1084419</link>
+      <description>언론사: 이데일리 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006409903?type=series&amp;cid=1084419</guid>
+      <pubDate>Sun, 15 Nov 2026 09:12:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이코노미스트] “삼성 로고까지 지웠는데”…일본서 3위 오른 갤럭시의 반전 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/243/0000105684?type=series&amp;cid=2003768</link>
+      <description>언론사: 이코노미스트 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/243/0000105684?type=series&amp;cid=2003768</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[디지털데일리] [인터뷰] &quot;어포더블&quot; 박중서 TI코리아 대표, 안정된 공급망 기반 고객 수용성 높인다 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/138/0002248568?type=series&amp;cid=2000113</link>
+      <description>언론사: 디지털데일리 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/138/0002248568?type=series&amp;cid=2000113</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[아이뉴스24] 북극해 '복병' 바다얼음, 30일 앞서 예측한다 (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001075066?type=series&amp;cid=1087779</link>
+      <description>언론사: 아이뉴스24 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001075066?type=series&amp;cid=1087779</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>[동아사이언스] 줄어드는 코끼리…&quot;공동체 와해 우려&quot; (2026.11.15.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000040158?type=series&amp;cid=1077377</link>
+      <description>언론사: 동아사이언스 / 등록일: 2026.11.15.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000040158?type=series&amp;cid=1077377</guid>
+      <pubDate>Sun, 15 Nov 2026 08:57:10 +0900</pubDate>
     </item>
     <item>
       <title>[아이뉴스24] 20년 만에 지도 반출⋯구글, 韓 서비스 강화 추진 (2026.11.15.)</title>
@@ -26,111 +131,6 @@
       <description>언론사: 아시아경제 / 등록일: 2026.11.15.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005842625?type=series&amp;cid=2000451</guid>
       <pubDate>Sun, 15 Nov 2026 07:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다 (2026.11.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016442078?type=series&amp;cid=2003824</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016442078?type=series&amp;cid=2003824</guid>
-      <pubDate>Sun, 15 Nov 2026 06:15:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] &quot;KTX 좌석 있나요?&quot;…코레일에 직접 전화한 AI 비서 (2026.11.15.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016442075?type=series&amp;cid=2003536</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.15.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016442075?type=series&amp;cid=2003536</guid>
-      <pubDate>Sun, 15 Nov 2026 06:13:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[헤럴드경제] “학교 갈 시간인데” 길거리서 손 벌리는 9살…잔인한 현실, 어쩌다 이렇게까지 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002723465?type=series&amp;cid=2000342</link>
-      <description>언론사: 헤럴드경제 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002723465?type=series&amp;cid=2000342</guid>
-      <pubDate>Sat, 14 Nov 2026 18:41:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 라디오에도 간접광고 도입하나…방송광고 규제 개선 논의 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016441833?type=series&amp;cid=2003093</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016441833?type=series&amp;cid=2003093</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:01 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울경제] 해치와 함께 서울 투어…퍼즐 풀고 명소 탐방까지 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004682158?type=series&amp;cid=2002834</link>
-      <description>언론사: 서울경제 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004682158?type=series&amp;cid=2002834</guid>
-      <pubDate>Sat, 14 Nov 2026 12:02:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[뉴스1] 파이버스, 일주일 새 19%↑…2.22달러 신고가까지 무슨 일이? (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/421/0009288879?type=series&amp;cid=2003722</link>
-      <description>언론사: 뉴스1 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/421/0009288879?type=series&amp;cid=2003722</guid>
-      <pubDate>Sat, 14 Nov 2026 11:32:57 +0900</pubDate>
-    </item>
-    <item>
-      <title>[한국경제] 젠슨 황 쫓겨난 '불륜 스캔들'에…거물 CEO들의 흑역사 소환 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/015/0005353795?type=series&amp;cid=2003107</link>
-      <description>언론사: 한국경제 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/015/0005353795?type=series&amp;cid=2003107</guid>
-      <pubDate>Sat, 14 Nov 2026 09:31:12 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] KTX 예매에 전화까지…내 일 대신하는 AI 비서 '피클' (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016441674?type=series&amp;cid=2003345</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016441674?type=series&amp;cid=2003345</guid>
-      <pubDate>Sat, 14 Nov 2026 09:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[파이낸셜뉴스] 오픈AI, 챗GPT에 AI지갑 도입…AI가 사람 대신 결제한다 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/014/0005604182?type=series&amp;cid=2003485</link>
-      <description>언론사: 파이낸셜뉴스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/014/0005604182?type=series&amp;cid=2003485</guid>
-      <pubDate>Sat, 14 Nov 2026 08:42:17 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아이뉴스24] 탄탄한 전투와 사냥 손맛…수렵 재미 구현한 '몬스터헌터 아웃랜더스' (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001075030?type=series&amp;cid=1087730</link>
-      <description>언론사: 아이뉴스24 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001075030?type=series&amp;cid=1087730</guid>
-      <pubDate>Sat, 14 Nov 2026 08:12:08 +0900</pubDate>
-    </item>
-    <item>
-      <title>[이데일리] &quot;로블록스부터 포토샵까지&quot;…14.6형 갤탭의 힘 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006409761?type=series&amp;cid=2002286</link>
-      <description>언론사: 이데일리 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006409761?type=series&amp;cid=2002286</guid>
-      <pubDate>Sat, 14 Nov 2026 08:08:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[동아사이언스] 네모 속 무작위 선 긋기로 탄생한 새 메타물질 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/584/0000040152?type=series&amp;cid=1077377</link>
-      <description>언론사: 동아사이언스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/584/0000040152?type=series&amp;cid=1077377</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:28 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 전쟁 겪은 CEO, 불황 닥치면 직원 더 줄인다 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016441615?type=series&amp;cid=2000995</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016441615?type=series&amp;cid=2000995</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:06 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] [언박싱]풍부한 크레마에 뒤처리도 간편…돌체구스토 네오 써보니 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005842537?type=series&amp;cid=2002866</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005842537?type=series&amp;cid=2002866</guid>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아시아경제] 젠슨 황의 리더십, 엔비디아에 얼마나 중요했나 (2026.11.14.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/277/0005842534?type=series&amp;cid=2001402</link>
-      <description>언론사: 아시아경제 / 등록일: 2026.11.14.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/277/0005842534?type=series&amp;cid=2001402</guid>
-      <pubDate>Sat, 14 Nov 2026 07:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
