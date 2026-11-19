@@ -5,7 +5,28 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:41:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:19:08 +0900</lastBuildDate>
+    <item>
+      <title>[이데일리] “달려도 안 빠진다”…삼성 운동용 이어폰 나온다 (2026.11.20.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/018/0006412873?type=series&amp;cid=2002833</link>
+      <description>언론사: 이데일리 / 등록일: 2026.11.20.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006412873?type=series&amp;cid=2002833</guid>
+      <pubDate>Fri, 20 Nov 2026 07:19:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>[연합뉴스] 11년간 못 찾은 해킹 취약점…티오리 AI가 찾아냈다 (2026.11.20.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016453436?type=series&amp;cid=2003567</link>
+      <description>언론사: 연합뉴스 / 등록일: 2026.11.20.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016453436?type=series&amp;cid=2003567</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:03 +0900</pubDate>
+    </item>
+    <item>
+      <title>[조선비즈] 코에 넣는 mRNA 신약, 알츠하이머병 막는다 (2026.11.20.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001206116?type=series&amp;cid=2002701</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.11.20.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001206116?type=series&amp;cid=2002701</guid>
+      <pubDate>Fri, 20 Nov 2026 06:02:04 +0900</pubDate>
+    </item>
     <item>
       <title>[헤럴드경제] “몸에 좋은 거 아녔어?” 알고 보니, 정체불명 물질이 ‘수두룩’…티백의 불편한 진실 (2026.11.19.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/016/0002725923?type=series&amp;cid=2000342</link>
@@ -91,13 +112,6 @@
       <pubDate>Thu, 19 Nov 2026 13:01:13 +0900</pubDate>
     </item>
     <item>
-      <title>[연합뉴스] 크래프톤 기대작 '타래: 언바운드' &quot;2027년 출시 변동 없다&quot; (2026.11.19.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016451913?type=series&amp;cid=2003567</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.19.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016451913?type=series&amp;cid=2003567</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:01 +0900</pubDate>
-    </item>
-    <item>
       <title>[서울신문] 기분 풀려고 켠 SNS, 오히려 독…SNS 덜 했더니 우울·불안 감소 (2026.11.19.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/081/0003701087?type=series&amp;cid=1089231</link>
       <description>언론사: 서울신문 / 등록일: 2026.11.19.</description>
@@ -117,20 +131,6 @@
       <description>언론사: ZDNet Korea / 등록일: 2026.11.19.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/092/0002445985?type=series&amp;cid=2002926</guid>
       <pubDate>Thu, 19 Nov 2026 10:40:13 +0900</pubDate>
-    </item>
-    <item>
-      <title>[아이뉴스24] 전류로 소재를 자라게 한다 (2026.11.19.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/031/0001076491?type=series&amp;cid=1087778</link>
-      <description>언론사: 아이뉴스24 / 등록일: 2026.11.19.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/031/0001076491?type=series&amp;cid=1087778</guid>
-      <pubDate>Thu, 19 Nov 2026 10:27:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[연합뉴스] 내년 세계 AI 지출 4조달러…60%는 인프라에 (2026.11.19.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/001/0016451082?type=series&amp;cid=2003824</link>
-      <description>언론사: 연합뉴스 / 등록일: 2026.11.19.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/001/0016451082?type=series&amp;cid=2003824</guid>
-      <pubDate>Thu, 19 Nov 2026 09:42:40 +0900</pubDate>
     </item>
   </channel>
 </rss>
