@@ -5,7 +5,14 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=IT&amp;order=update</link>
     <description>네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:39:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:32:12 +0900</lastBuildDate>
+    <item>
+      <title>[한국일보] 구글에 숙제 검색했더니 '정답'부터 주르륵... 검색창 개편에 교실은 '비상' (2026.11.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/469/0000967121?type=series&amp;cid=2001419</link>
+      <description>언론사: 한국일보 / 등록일: 2026.11.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/469/0000967121?type=series&amp;cid=2001419</guid>
+      <pubDate>Mon, 23 Nov 2026 04:32:12 +0900</pubDate>
+    </item>
     <item>
       <title>[디지털데일리] [DD 주간브리핑] 오픈AI 보이스·AWS 클라우드 재설계…서울 달구는 'AI 에이전트' 공세 (2026.11.22.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/138/0002249493?type=series&amp;cid=1088461</link>
@@ -124,13 +131,6 @@
       <description>언론사: 이데일리 / 등록일: 2026.11.22.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/018/0006413560?type=series&amp;cid=2002286</guid>
       <pubDate>Sun, 22 Nov 2026 07:39:10 +0900</pubDate>
-    </item>
-    <item>
-      <title>[조선비즈] 영업이익보다 법인세 더 낸 카카오… 두나무 지분 매각 영향 (2026.11.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001206406?type=series&amp;cid=1087841</link>
-      <description>언론사: 조선비즈 / 등록일: 2026.11.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001206406?type=series&amp;cid=1087841</guid>
-      <pubDate>Sun, 22 Nov 2026 06:01:11 +0900</pubDate>
     </item>
   </channel>
 </rss>
